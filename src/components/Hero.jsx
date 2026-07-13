@@ -130,7 +130,7 @@ const Hero = () => {
         >
 
           <img
-            src={profile}
+            src="./profile.jpg"
             alt="Harish"
             className="w-80 h-80 rounded-full border-4 border-yellow-400 object-cover shadow-2xl"
           />
