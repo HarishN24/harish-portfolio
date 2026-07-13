@@ -1,0 +1,102 @@
+.education{
+
+    padding:80px 10%;
+    background:#0b0b0b;
+    color:white;
+
+}
+
+
+
+.education h2{
+
+    text-align:center;
+    font-size:40px;
+    margin-bottom:50px;
+
+}
+
+
+.education h2 span{
+
+    color:#00ffff;
+
+}
+
+
+
+.education-container{
+
+    display:flex;
+    flex-direction:column;
+    gap:30px;
+
+}
+
+
+
+.education-card{
+
+    background:#1c1c1c;
+    padding:25px;
+
+    border-left:5px solid #00ffff;
+
+    border-radius:10px;
+
+    transition:0.3s;
+
+}
+
+
+
+.education-card:hover{
+
+    transform:translateX(10px);
+
+}
+
+
+
+.education-card .year{
+
+    color:#00ffff;
+    font-weight:bold;
+    font-size:18px;
+
+}
+
+
+
+.education-card h3{
+
+    font-size:25px;
+    margin:10px 0;
+
+}
+
+
+
+.education-card h4{
+
+    color:#ddd;
+
+}
+
+
+
+.education-card h5{
+
+    color:#aaa;
+    font-size:17px;
+
+}
+
+
+
+.education-card p{
+
+    color:#ccc;
+    line-height:1.6;
+
+}

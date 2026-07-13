@@ -1,0 +1,69 @@
+.contact{
+
+    padding:80px 10%;
+    background:#0b0b0b;
+    color:white;
+    text-align:center;
+
+}
+
+
+
+.contact h2{
+
+    font-size:40px;
+
+}
+
+
+.contact h2 span{
+
+    color:#00ffff;
+
+}
+
+
+
+.contact-box{
+
+    margin-top:40px;
+
+    background:#1c1c1c;
+
+    padding:30px;
+
+    border-radius:15px;
+
+}
+
+
+
+.contact-box p{
+
+    font-size:18px;
+
+    color:#ddd;
+
+}
+
+
+
+.social-links a{
+
+    display:inline-block;
+
+    margin:15px;
+
+    padding:10px 25px;
+
+    background:#00ffff;
+
+    color:black;
+
+    border-radius:20px;
+
+    text-decoration:none;
+
+    font-weight:bold;
+
+}
