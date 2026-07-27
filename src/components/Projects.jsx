@@ -4,7 +4,19 @@ import "./Projects.css";
 const Projects = () => {
 
     const projects = [
-
+        
+      {
+        title: "CareerConnect - Job Portal Application",
+        description:
+        "Full Stack Job Portal Application that enables users to register, manage profiles, search and apply for jobs. Implemented secure authentication, role-based access, job management, and application tracking features.",
+        technologies:
+        "Java, Spring Boot, Spring Security, JWT, React.js, MySQL, REST API",
+        github:
+        "https://github.com/HarishN24/careerconnect-frontend",
+        demo:
+        "https://careerconnect-frontend-five.vercel.app"
+    },
+        
     {
         title: "Movie Ticket Booking System",
         description:
@@ -25,7 +37,9 @@ const Projects = () => {
         technologies:
         "Java, Spring Boot, Spring Data JPA, MySQL, Swagger, Postman",
         github:
-        "https://github.com/HarishN24/smart-parking-system-api"
+        "https://github.com/HarishN24/smart-parking-system-api",
+        demo:
+        "https://smart-parking-system-api.onrender.com/swagger-ui/index.html"
     },
 
 
